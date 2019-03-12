@@ -1,4 +1,3 @@
-
 # Project: Vehicle Detection and Tracking
 
 The main goal of the project is to create a software pipeline to identify vehicles in a video from a front-facing camera on a car. Additionally, an Advanced Lane Line finding algorithm was added from the fourth task of the Nanodegree program.
